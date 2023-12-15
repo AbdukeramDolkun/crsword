@@ -75,7 +75,7 @@ PySide6-Essentials==6.6.1
 PySocks
 python-dateutil
 pytz
-pypywin32==306
+#pypywin32==306
 pywin32-ctypes==0.2.2
 PyYAML
 pyzmq
